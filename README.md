@@ -1,3 +1,1 @@
 # Analysis1Ex
-
-# THIS IS SOME STUPID CODE
